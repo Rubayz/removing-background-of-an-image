@@ -1,1 +1,1 @@
-"# removing-background-of-an-image" 
+<h1>Removed Background</h1>
